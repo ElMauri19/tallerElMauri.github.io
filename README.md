@@ -76,7 +76,7 @@
 
     <!-- Sección de presentación -->
     <section id="presentacion">
-        <img id="perfil-img" src="C:\Users\ASUS\OneDrive\Escritorio\Mi foto\IMG_20250331_180921.jpg" alt="Imagen de Perfil">
+        <img id="perfil-img" src="https://scontent.fclo1-3.fna.fbcdn.net/v/t51.75761-15/463895404_18296961157207766_4648824673428385943_n.jpg?stp=dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjzV5Lsq9fUVF7k9idpWkmoUUMir4HRUihRQyKvgdFSF0CFDLMmsYIKCbNzLZBeh0GhKgePHSg4LT3hmdCu5Gx&_nc_ohc=jJ3nQ0HzaD8Q7kNvwG9x5rc&_nc_oc=AdkWxV6zoavVYD4fJrWJqHMm3NHk0B4ljpXoRAzN-O9ShrA2JS4COdNFjO_Dmvu5R1l00qXmbIaHjZBp449TDEDj&_nc_zt=23&_nc_ht=scontent.fclo1-3.fna&_nc_gid=mbOJNFXsWZWa9mhqq7-THQ&oh=00_AfX5GCwL94x-fsvIyujMU8L0FMGYroIyKy9m4tJaoZSi3w&oe=68BADFCF" alt="Imagen de Perfil">
         <h2>Bienvenido a mi Portafolio</h2>
         <p>Hola que tal,me presento mi nombre es Mauricio Alejandro Bolaños Castillo tengo 20 años, estudio licenciatura en informática  en la universidad de Nariño sede torobajo, estoy cursando 3r semestre de mis gustos puedo decir que me gusta mucho las motos y los carros clásicos, también me gusta mucho el agro ya que desde pequeño siempre estuve rodeado específicamente de Ganado y Café desde ahí adquirir el gusto por el campo como hobby o pasatiempo, pero realmente lo que me apasiona o me desvive es la informática y la docencia, por eso la carrera que estudio.</p>
         <ul>
