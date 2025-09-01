@@ -21,7 +21,7 @@
         #banner {
             width: 100%;
             height: auto;
-            max-height: 300px;
+            max-height: 500px;
             object-fit: cover;
         }
         section {
