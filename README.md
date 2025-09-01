@@ -71,7 +71,7 @@
 <body>
     <header>
         <h1>Portafolio Personal de Mauricio Alejandro Bolaños Castillo</h1>
-        <img id="banner" src="https://wallpapers.com/images/featured/dragon-ball-super-broly-dznz07vkati6shws.jpg" alt="Banner del Portafolio">
+        <img id="banner" src="[https://wallpapers.com/images/featured/dragon-ball-super-broly-dznz07vkati6shws.jpg](https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/491915522_3900479450265120_2268819381389717300_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFjgTrwmu0nOXiepwpXiazzSbZfAiC7UJZJtl8CILtQlplQ4CvlMppfZUeqr8g34SIu1IkdDeppvKrrfGLD1q_o&_nc_ohc=ARDwtoxFiaIQ7kNvwFsq3gu&_nc_oc=AdmePOkwzGDOZ1T_ukr4tFafH4_rjVD9hI5mZbIzAGgKHp9BSXfU4kReCjGCp_B7HLOm9Nu5sx49PKPgqOoegemj&_nc_zt=23&_nc_ht=scontent.fclo1-3.fna&_nc_gid=vmzrMguLrpirkj5oFug__w&oh=00_AfWuY0ekpvP5yPFsXwz7z2vE6xTdBRZNPhQT-P5VvveGHw&oe=68BAE60F)" alt="Banner del Portafolio">
     </header>
 
     <!-- Sección de presentación -->
